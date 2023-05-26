@@ -1,6 +1,4 @@
-# Welcome to Thapa Technical React Ecommerce Website Series
 
-## Follow the 3 Steps and you are good to go. 
 
 1: Clone the Project 
 
